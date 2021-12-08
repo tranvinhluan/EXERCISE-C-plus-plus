@@ -1,0 +1,7 @@
+1003	nguyen	thi mai	linh	20	 n	7.00	8.00	9.00	8.00
+1003	nguyen	thi mai	lan	20	 n	7.00	8.00	9.00	8.00
+1003	nguyen	thi mai	linh	20	 n	7.00	8.00	9.00	8.00
+1003	nguyen	thi mai	linh	20	 n	7.00	8.00	9.00	8.00
+1003	nguyen	thi mai	linh	20	 n	7.00	8.00	9.00	8.00
+1003	nguyen	thi mai	linh	20	 n	7.00	8.00	9.00	8.00
+1003	nguyen	thi mai	linh	20	 n	7.00	8.00	9.00	8.00
